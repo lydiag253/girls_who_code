@@ -173,15 +173,15 @@ header .fa {
     font-weight: 600;
     border-radius: 100px;
     padding: 8px 35px;
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
-    border: 2px solid #b4dc2d;
+    background-color: #EF5779;
+    border-color: #EF5779;
+    border: 2px solid #EF5779;
 }
 
 .jumbotron .btn-success:hover {
     color: #fff;
     background-color: transparent;
-    border: 2px solid #b4dc2d;
+    border: 2px solid #EF5779;
 }
 
 .jumbotron h2 {
@@ -379,8 +379,8 @@ header .fa {
     padding: 12px 35px;
     letter-spacing: 1px;
     border-radius: 0;
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
+    background-color: #EF5779;
+    border-color: #EF5779;
     text-transform: uppercase;
 }
 
@@ -388,8 +388,8 @@ header .fa {
     color: #fff;
     font-size: 18px;
     padding: 5px 20px;
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
+    background-color: #EF5779;
+    border-color: #EF5779;
     border-radius: 100px;
 }
 
@@ -480,8 +480,8 @@ header .fa {
     padding: 12px 35px;
     letter-spacing: 1px;
     border-radius: 0;
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
+    background-color: #EF5779;
+    border-color: #EF5779;
     text-transform: uppercase;
 }
 
@@ -675,8 +675,8 @@ header .fa {
 
 .section-6 .btn-info:hover {
     color: #ffffff;
-    background-color: #b4dc2d;
-    border: 1px solid #b4dc2d;
+    background-color: #EF5779;
+    border: 1px solid #EF5779;
 }
 
 .section-6 input {
@@ -941,8 +941,8 @@ header .fa {
 }
 
 #contact .btn-primary:hover {
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
+    background-color: #EF5779;
+    border-color: #EF5779;
 }
 
 #contact .form-group {
@@ -1035,8 +1035,8 @@ textarea.form-control {
     padding: 12px 35px;
     letter-spacing: 1px;
     border-radius: 0;
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
+    background-color: #EF5779;
+    border-color: #EF5779;
     text-transform: uppercase;
 }
 
@@ -1297,8 +1297,8 @@ textarea.form-control {
 }
 
 .blog .bt .active {
-    background-color: #b4dc2d;
-    border: 1px solid #b4dc2d;
+    background-color: #EF5779;
+    border: 1px solid #EF5779;
     color: white;
     border-radius: 100px;
 }
@@ -1307,8 +1307,8 @@ textarea.form-control {
     color: #fff;
     font-size: 18px;
     padding: 5px 20px;
-    background-color: #b4dc2d;
-    border-color: #b4dc2d;
+    background-color: #EF5779;
+    border-color: #EF5779;
     border-radius: 100px;
 }
 
@@ -1319,8 +1319,8 @@ textarea.form-control {
 }
 
 .blog .bt a:hover {
-    background-color: #b4dc2d;
-    border: 1px solid #b4dc2d;
+    background-color: #EF5779;
+    border: 1px solid #EF5779;
     color: white;
     border-radius: 100px;
 }
@@ -2437,7 +2437,7 @@ textarea.form-control {
     .navbar-dark .navbar-toggler {
         color: rgb(0, 0, 0);
         border-color: rgba(255, 255, 255, 0.1);
-        background: #b4dc2d;
+        background: #EF5779;
     }
     .navbar-toggler {
         padding: .15rem .25rem;
